@@ -1,5 +1,8 @@
 # simple-app-answer
 Brand Home page, login, registration and users last activity on account with MySql Database.
+
+
+
 ANSWERS:
 Question 1:
     File Name: login.php and registration.php
